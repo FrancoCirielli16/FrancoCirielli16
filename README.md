@@ -9,16 +9,25 @@
 
 
 <div align="center">
-<img width="60%" src="https://user-images.githubusercontent.com/89426738/156306632-712fe455-6775-491c-950a-d88f62e1ba06.svg">
+<img width="70%" src="https://user-images.githubusercontent.com/89426738/156306632-712fe455-6775-491c-950a-d88f62e1ba06.svg">
 </div>
 
 <br><br>
 
 <div align="center">
   
-<img width="59%" src="https://github-readme-stats.vercel.app/api?username=FrancoCirielli16&bg_color=135,550000,ff3c00&title_color=d9d9d9&text_color=d9d9d9&hide_border=true)](https://github.com/FrancoCirielli16/github-readme-stats">
+<img width="65%" src="https://github-readme-stats.vercel.app/api?username=FrancoCirielli16&bg_color=135,550000,ff3c00&title_color=d9d9d9&text_color=d9d9d9&hide_border=true)](https://github.com/FrancoCirielli16/github-readme-stats">
  
- <img  width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoCirielli16&bg_color=135,550000,ff3c00&title_color=d9d9d9&text_color=d9d9d9&hide_border=true)](https://github.com/FrancoCirielli16/github-readme-stats">
+ <br><br>
+  
+<div align="center">
+<img width="60%" src="https://user-images.githubusercontent.com/89426738/156411762-aa7a5318-9303-427b-98de-ae944635e584.svg">
+</div>
+  
+
+ <br><br>
+  
+ <img  width="55%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoCirielli16&bg_color=135,550000,ff3c00&title_color=d9d9d9&text_color=d9d9d9&hide_border=true)](https://github.com/FrancoCirielli16/github-readme-stats">
   
 </div>
 <br>
