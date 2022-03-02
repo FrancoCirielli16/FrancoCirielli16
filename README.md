@@ -16,9 +16,9 @@
 
 <div align="center">
   
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=FrancoCirielli16&bg_color=135,550000,ff3c00&title_color=d9d9d9&text_color=d9d9d9&hide_border=true)](https://github.com/FrancoCirielli16/github-readme-stats">
+<img width="59%" src="https://github-readme-stats.vercel.app/api?username=FrancoCirielli16&bg_color=135,550000,ff3c00&title_color=d9d9d9&text_color=d9d9d9&hide_border=true)](https://github.com/FrancoCirielli16/github-readme-stats">
  
- <img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoCirielli16&bg_color=135,550000,ff3c00&title_color=d9d9d9&text_color=d9d9d9&hide_border=true)](https://github.com/FrancoCirielli16/github-readme-stats">
+ <img  width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoCirielli16&bg_color=135,550000,ff3c00&title_color=d9d9d9&text_color=d9d9d9&hide_border=true)](https://github.com/FrancoCirielli16/github-readme-stats">
   
 </div>
 <br>
