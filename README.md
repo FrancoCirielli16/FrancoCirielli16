@@ -1,19 +1,24 @@
-<h1 align="center">Hi, I'm Franco :wave::technologist:</h1>
+<h1 align="center">:wave: Hi, I'm</h1>
 
 <div align="center">
 <img width="75%" src="https://user-images.githubusercontent.com/89426738/156302843-c0e84233-68db-4c55-90d1-ca891e0a4ef1.gif">
 </div>
 
+
 <br>
 
-![HTML_to_SVG (32)](https://user-images.githubusercontent.com/89426738/156246140-e4aabc86-1223-44f6-9604-c1e701ac82b9.svg)
+<h2 align="center">My favorite JS</h2>
+
+<div align="center">
+<img width="60%" src="https://user-images.githubusercontent.com/89426738/156306632-712fe455-6775-491c-950a-d88f62e1ba06.svg">
+</div>
 
 
 <h2 align="center">My summary :open_book:</h2>
 
 <div align="center">
   
-[![FrancoCirielli's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancoCirielli16&bg_color=135,220000,cc0000,ff3c00,ff3c00&title_color=d9d9d9&text_color=d9d9d9)](https://github.com/FrancoCirielli16/github-readme-stats)
+<img width="75%" src="https://github-readme-stats.vercel.app/api?username=FrancoCirielli16&bg_color=135,550000,ff3c00&title_color=d9d9d9&text_color=d9d9d9&hide_border=true)](https://github.com/FrancoCirielli16/github-readme-stats">
   
 </div>
 
