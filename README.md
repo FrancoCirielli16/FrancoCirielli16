@@ -16,12 +16,18 @@
 
 <div align="center">
   
-<img width="75%" src="https://github-readme-stats.vercel.app/api?username=FrancoCirielli16&bg_color=135,550000,ff3c00&title_color=d9d9d9&text_color=d9d9d9&hide_border=true)](https://github.com/FrancoCirielli16/github-readme-stats">
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=FrancoCirielli16&bg_color=135,550000,ff3c00&title_color=d9d9d9&text_color=d9d9d9&hide_border=true)](https://github.com/FrancoCirielli16/github-readme-stats">
+ 
+ <img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoCirielli16&bg_color=135,550000,ff3c00&title_color=d9d9d9&text_color=d9d9d9&hide_border=true)](https://github.com/FrancoCirielli16/github-readme-stats">
   
 </div>
 <br>
 
+
 <h2 align="center">You can find me :earth_americas:</h2>
 
 <div align="center"><a href="https://FrancoCirielli16.io/" target="_blank"><img width="5%" src="https://cdn-icons.flaticon.com/png/128/896/premium/896678.png?token=exp=1646170349~hmac=eb42ef081ee7b8f69f67bb68f4a9f426" alt="instagram"></a>&emsp;&emsp;<a href="https://www.instagram.com/franco.cirielli" target="_blank"><img width="5%" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="instagram"></a>&emsp;&emsp;<a href="https://ar.linkedin.com/in/franco-cirielli-74ab67196" target="_blank"><img width="5%" src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1646170237~hmac=b1a94885fda3cf8efcb433fd43ad0188" alt="instagram"></a></div>
+
+
+⭐️ From <a href="https://github.com/FrancoCirielli16" target="_blank">FrancoCirielli16</a><img align="left" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
