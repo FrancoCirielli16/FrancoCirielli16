@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Franco :wave::technologist:</h1>
 
 <div align="center">
-<img width="75%" src="https://user-images.githubusercontent.com/89426738/156299280-c8f14b05-4d6e-426c-ae14-679d1ad3bceb.gif">
+<img width="75%" src="https://user-images.githubusercontent.com/89426738/156302843-c0e84233-68db-4c55-90d1-ca891e0a4ef1.gif">
 </div>
 
 <br>
@@ -13,7 +13,7 @@
 
 <div align="center">
   
-[![FrancoCirielli's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancoCirielli16)](https://github.com/FrancoCirielli16/github-readme-stats)
+[![FrancoCirielli's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancoCirielli16&bg_color=135,220000,cc0000,ff3c00,ff3c00&title_color=d9d9d9&text_color=d9d9d9)](https://github.com/FrancoCirielli16/github-readme-stats)
   
 </div>
 
