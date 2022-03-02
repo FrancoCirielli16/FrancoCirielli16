@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Domine&display=swap" rel="stylesheet">
+    <title>Document</title>
+</head>
+<body>
+    <!--
+        Never do it again
+    -->
+    <style>
+        :root {
+            --opacity-1: 100;
+            --opacity-2: 0;
+        }
+        body {
+            background: #0d1117;
+        }
+        .fondo {
+            position:relative;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 1640px;
+            height: 664px;
+            background: linear-gradient(45deg, #ff3c00 5%, hsl(0, 100%, 40%)50%, rgb(51, 0, 0)100%);
+            border-radius: 2rem;
+            overflow: hidden;
+        }
+        .borde {
+            width: 97.5%;
+            height: 95%;
+            position: relative;
+            border: 3px solid white;
+            border-radius: 2rem;
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+        }
+        .info {
+            z-index: 10;
+            font-family: 'Domine', serif;
+            font-size: 16px;
+            margin-right:4%;
+            padding:50px;
+            color: rgb(217, 217, 217);
+            display: flex;
+            flex-direction: column;
+            align-items: flex-end;
+        }
+        .info h1 {
+            font-size: 5em;
+            margin-block: 0.5em;
+            background-color: rgba(48, 58, 69, 50%);
+            padding-block: 5px;
+            padding-inline: 10px;
+        }
+        .info p {
+            margin-block: 0.2em;
+            font-size: 2.5em;
+            background-color: rgba(48, 58, 69, 50%);
+            padding-block: 5px;
+            padding-inline: 10px;
+        }
+        .gif {
+            position: absolute;
+            bottom: 0;
+            left: 4%;
+            filter:grayscale(50%);
+            width: 35%;
+            transform: rotateY(180deg);
+        }
+        .circle
+{
+    position: absolute;
+    right: 15%;
+    width: 600px;
+    height: 600px;
+   filter: url(#wavy) blur(1px);
+   opacity: 85%;
+}
+.circle:before
+{
+   content: '';
+   position: absolute;
+   top: 100px;
+    Left: 100px;
+   right: 100px;
+   bottom: 100px;
+   border: 20px solid #fff;
+   border-radius: 50%;
+   box-shadow: 0 0 50px #0f0,
+                inset 0 0 50px #0f0;
+    -webkit-box-reflect: below 10px linear-gradient(transparent, transparent, #0002);
+   animation: colorChange 5s linear infinite;
+}.circle:after
+{
+   content: '';
+   position: absolute;
+   top: 100px;
+    Left: 100px;
+   right: 100px;
+   bottom: 100px;
+   border: 20px solid rgb(255, 174, 0);
+   border-radius: 50%;
+   box-shadow: 0 0 10px hsl(0, 100%, 50%),
+                inset 0 0 20px rgb(255, 0, 0);
+}
+        @keyframes colorChange {
+            0%
+{
+    box-shadow: 0 0 50px rgb(255, 0, 0),
+                 inset 0 0 50px rgb(255, 0, 0);
+    filter: hue-rotate(0deg);
+}
+100%
+{
+    box-shadow: 0 0 50px rgb(255, 145, 0),
+                 inset 0 0 50px rgb(255, 166, 0);
+    filter: hue-rotate(22deg);
+        }}
+        svg {
+            width: 0;
+            height: 0;
+        }
+
+        .fondo {
+            animation-name: changeBackground;
+            animation-duration: 20s;
+            animation-iteration-count: infinite;
+        }
+        .intro {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background: url('./Banner/output-onlinegiftools\ \(1\).gif');
+            background-size: cover;
+            opacity: var(--opacity-1);
+        }
+        .borde {
+            opacity: var(--opacity-2);
+        }
+        @keyframes changeBackground {
+            0% {
+                --opacity-1: 100;
+                --opacity-2: 0;
+            }
+            35% {
+                --opacity-1: 0;
+                --opacity-2: 100;
+            }
+            100% {
+                --opacity-1: 0;
+                --opacity-2: 100;
+            }
+        }
+    </style>
+    <div class="fondo">
+        <div class="intro"></div>
+        <div class="borde">
+            <img class="gif" src="./output-onlinegiftools (6).gif" alt="">
+            <div class="circle"></div>
+            <div class="info">
+                <h1>Franco Giovanni Cirielli</h1>
+                <p>💻 Junior developer</p>
+                <p>📚 Student at Computer Science</p>
+                <p>📈 In continues growing</p>
+            </div>
+        </div>
+        <svg>
+            <filter id="wavy">
+              <feTurbulence x="0" y="0" baseFrequency="0.009" numOctaves="5" seed="2">
+                <animate attributeName="baseFrequency" dur="15s" values="0.02;0.005;0.02" repeatCount="indefinite">
+              </feTurbulence>
+              <feDisplacementMap in="SourceGraphic" scale="50">
+            </filter>
+          </svg>
+    </div>
+</body>
+</html>
+
