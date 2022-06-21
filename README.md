@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi there</h1>
+<h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="4%"> Hi there</h1>
 
 <div align="center">
 <img width="75%" src="https://user-images.githubusercontent.com/89426738/156302843-c0e84233-68db-4c55-90d1-ca891e0a4ef1.gif">
