@@ -20,13 +20,6 @@
  
  <br><br>
   
-<div align="center">
-<img width="55%" src="https://user-images.githubusercontent.com/89426738/156411762-aa7a5318-9303-427b-98de-ae944635e584.svg">
-</div>
-  
-
- <br><br>
-  
  <img  width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoCirielli16&bg_color=135,550000,ff3c00&title_color=d9d9d9&text_color=d9d9d9&hide_border=true)](https://github.com/FrancoCirielli16/github-readme-stats">
   
 </div>
@@ -37,7 +30,7 @@
 
 <div align="center">
   
-  <a href="https://FrancoCirielli16.io/" target="_blank"><img width="3.9%" src="https://computiqweb.com/build/media/portafolio.png" alt="Portafolio"></a>&emsp;&emsp;<a href="https://www.instagram.com/franco.cirielli" target="_blank"><img width="4.2%" src="https://i.pinimg.com/originals/fa/31/dc/fa31dc0689fd436ce1612e2be194f78f.png" alt="instagram"></a>&emsp;&emsp;<a href="https://ar.linkedin.com/in/franco-cirielli-74ab67196" target="_blank"><img width="4.5%" src="https://i.pinimg.com/originals/fa/1f/5b/fa1f5b2e196350cecadd3ab070cf41d3.png" alt="Linkedin"></a>
+ <a href="https://www.instagram.com/franco.cirielli" target="_blank"><img width="4.2%" src="https://i.pinimg.com/originals/fa/31/dc/fa31dc0689fd436ce1612e2be194f78f.png" alt="instagram"></a>&emsp;&emsp;<a href="https://ar.linkedin.com/in/franco-cirielli-74ab67196" target="_blank"><img width="4.5%" src="https://i.pinimg.com/originals/fa/1f/5b/fa1f5b2e196350cecadd3ab070cf41d3.png" alt="Linkedin"></a>
 </div>
 
 
