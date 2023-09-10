@@ -11,7 +11,11 @@
 </br>
 <details><summary>💼Proyectos Personales</summary>
 <div align="center">
-<a href="https://github.com/Fabian-Martinez-Rincon/Resume"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Resume&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
+<a href="https://github.com/FrancoCirielli16/BCRestAPI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FrancoCirielli16&repo=BCRestAPI&theme=merko&show_description=true" alt="dice-roll-albert-ext">
+<a href="https://github.com/FrancoCirielli16/UNLPIMAGE"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FrancoCirielli16&repo=UNLPIMAGE&theme=merko&show_description=true" alt="dice-roll-albert-ext"></a>
+<a href="https://github.com/FrancoCirielli16/Calculadora"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FrancoCirielli16&repo=Calculadora&theme=merko&show_description=true" alt="dice-roll-albert-ext"></a>
+<a href="https://github.com/FrancoCirielli16/Python-Back-end"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FrancoCirielli16&repo=Python-Back-end&theme=merko&show_description=true" alt="dice-roll-albert-ext"></a>
+<a href="https://github.com/FrancoCirielli16/CryptoCoinAPI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FrancoCirielli16&repo=CryptoCoinAPI&theme=merko&show_description=true" alt="dice-roll-albert-ext"></a>
  
 </div>
 </details>
