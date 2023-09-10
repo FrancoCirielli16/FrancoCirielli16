@@ -41,7 +41,7 @@ Y alguna más...
 ## Buscame en:
 [![Discord](https://img.shields.io/badge/Discord-francocirielli-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](discord.gg/Jur4R4Jcpx)
 [![Instagram](https://img.shields.io/badge/Instagram-@franco.cirielli-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/franco.cirielli/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/franco-cirielli-74ab67196)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FrancoCirielli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/franco-cirielli-74ab67196)
 [![Web](https://img.shields.io/badge/Web-FrancoCirielli.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://francocirielli.me)
 
 <br><br>
