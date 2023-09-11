@@ -96,7 +96,7 @@ Y alguna más...
 <h3> GitHub Stats </h3>
 <div aling="row">
   <img src="https://github-readme-stats.vercel.app/api?username=FrancoCirielli16&theme=merko&show_icons=true&hide_border=false&count_private=true" alt="FrancoCirielli Stats" height="200px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrancoCirielli16&theme=merko&hide_border=false" alt="FrancoCirielli Streak" height="200px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrancoCirielli16&theme=merko&hide_border=false" alt="FrancoCirielli16 Streak" height="200px">
 </div>
 
 
