@@ -4,12 +4,13 @@
 
 <h1>Hola, Soy Franco! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="4%"></h1>
    
-- Mi nombre es Franco Giovanni Cirielli , soy de Buenos Aires, Argentina y soy Desarrollador Python y me especializo back-end, actualmente estoy completando mis estudios de la carrera de _Licenciatura en sistema_ en la _[Facultad de Informática](https://www.info.unlp.edu.ar/)._
+Mi nombre es Franco Giovanni Cirielli , soy de Buenos Aires, Argentina y soy Desarrollador Python y me especializo back-end, actualmente estoy completando mis estudios de la carrera de _Licenciatura en sistema_ en la _[Facultad de Informática](https://www.info.unlp.edu.ar/)._
 
-- ✉ Contacto: <a href="ciriellifrancogiovanni@gmail.com">ciriellifrancogiovanni@gmail.com</a>
+✉ Contacto: <a href="ciriellifrancogiovanni@gmail.com">ciriellifrancogiovanni@gmail.com</a>
 
 </br>
-<details><summary>💼Proyectos Personales</summary>
+
+💼Proyectos Personales
 <div align="center">
 <a href="https://github.com/FrancoCirielli16/BCRestAPI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FrancoCirielli16&repo=BCRestAPI&theme=merko&show_description=true" alt="dice-roll-albert-ext">
 <a href="https://github.com/FrancoCirielli16/UNLPIMAGE"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FrancoCirielli16&repo=UNLPIMAGE&theme=merko&show_description=true" alt="dice-roll-albert-ext"></a>
@@ -18,9 +19,9 @@
 <a href="https://github.com/FrancoCirielli16/CryptoCoinAPP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FrancoCirielli16&repo=CryptoCoinAPP&theme=merko&show_description=true" alt="dice-roll-albert-ext"></a>
  
 </div>
-</details>
 
-## Tecnologías:
+
+<h3>Tecnologías:</h3>
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
@@ -38,15 +39,17 @@
 </br>
 Y alguna más...
 
-## Buscame en:
+<h3>Buscame en:</h3>
+
 [![Discord](https://img.shields.io/badge/Discord-francocirielli-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](discord.gg/Jur4R4Jcpx)
 [![Instagram](https://img.shields.io/badge/Instagram-@franco.cirielli-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/franco.cirielli/)
+<br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FrancoCirielli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/franco-cirielli-74ab67196)
 [![Web](https://img.shields.io/badge/Web-FrancoCirielli.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://francocirielli.me)
 
 <br><br>
 
-# Primer año 🥇
+<h3>Primer año 🥇</h3> 
 
 <div>
 <!--     <a href="https://github.com/gretoide/CADP">
@@ -63,7 +66,7 @@ Y alguna más...
     </a> 
 </div>
 
-# Segundo año 🥈
+<h3>Segundo año 🥈</h3>
 
 <div>
     <a href="https://github.com/FrancoCirielli16/Python-Practica2">
@@ -83,7 +86,7 @@ Y alguna más...
     </a>
   </div>
 
-  # Tercer Año 🥉
+  <h3> Tercer Año 🥉</h3>
 
 <div>
     <a href="https://github.com/FrancoCirielli16/Programacion_Concurrente">
@@ -91,13 +94,12 @@ Y alguna más...
     </a>
   </div> 
 
-# GitHub Stats
+<h3> GitHub Stats </h3>
 <div aling="row">
   <img src="https://github-readme-stats.vercel.app/api?username=FrancoCirielli16&theme=merko&show_icons=true&hide_border=false&count_private=true" alt="FrancoCirielli Stats" height="200px">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrancoCirielli16&theme=merko&hide_border=false" alt="FrancoCirielli Streak" height="200px">
 </div>
 
-<div align = "center"><img  width="350px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoCirielli16&title_color=d9d9d9&text_color=d9d9d9&&theme=merko&hide_border=true)](https://github.com/FrancoCirielli16/github-readme-stats">
-</div>
+
 
 
