@@ -4,7 +4,7 @@
 
 <h1>Hola, Soy Franco! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="4%"></h1>
    
-Mi nombre es Franco Giovanni Cirielli , soy de Buenos Aires, Argentina y soy Desarrollador Python y me especializo back-end, actualmente estoy completando mis estudios de la carrera de _Licenciatura en sistema_ en la _[Facultad de Informática](https://www.info.unlp.edu.ar/)._
+Mi nombre es Franco Giovanni Cirielli , soy de Buenos Aires, Argentina y soy Desarrollador Python y me especializo back-end, actualmente estoy completando mis estudios de la carrera de _Licenciatura en sistemas_ en la _[Facultad de Informática](https://www.info.unlp.edu.ar/)._
 
 ✉ Contacto: <a href="ciriellifrancogiovanni@gmail.com">ciriellifrancogiovanni@gmail.com</a>
 
