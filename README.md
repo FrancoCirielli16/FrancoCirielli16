@@ -47,7 +47,6 @@ Y alguna más...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FrancoCirielli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/franco-cirielli-74ab67196)
 [![Web](https://img.shields.io/badge/Web-FrancoCirielli.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://francocirielli.me)
 
-<br><br>
 
 <h3>Primer año 🥇</h3> 
 
