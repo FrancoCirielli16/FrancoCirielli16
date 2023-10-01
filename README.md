@@ -31,6 +31,7 @@ Mi nombre es Franco Giovanni Cirielli , soy de Buenos Aires, Argentina y soy Des
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React-339933?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)]()
 [![FastAPI](https://img.shields.io/badge/FastAPI-339933?style=for-the-badge&logo=FastAPI&logoColor=white&labelColor=101010)]()
+[![Django](https://img.shields.io/badge/Django-339933?style=for-the-badge&logo=Django&logoColor=white&labelColor=101010)]()
 [![Nestjs](https://img.shields.io/badge/Nestjs-339933?style=for-the-badge&logo=Nestjs&logoColor=white&labelColor=101010)]()
 </br>
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
