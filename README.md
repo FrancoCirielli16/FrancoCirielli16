@@ -29,10 +29,10 @@ Mi nombre es Franco Giovanni Cirielli , soy de Buenos Aires, Argentina y soy Des
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![React](https://img.shields.io/badge/React-339933?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/React-007396?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)]()
 [![FastAPI](https://img.shields.io/badge/FastAPI-339933?style=for-the-badge&logo=FastAPI&logoColor=white&labelColor=101010)]()
 [![Django](https://img.shields.io/badge/Django-339933?style=for-the-badge&logo=Django&logoColor=white&labelColor=101010)]()
-[![Nestjs](https://img.shields.io/badge/Nestjs-339933?style=for-the-badge&logo=Nestjs&logoColor=white&labelColor=101010)]()
+[![Nestjs](https://img.shields.io/badge/Nestjs-F7DF1E?style=for-the-badge&logo=Nestjs&logoColor=white&labelColor=101010)]()
 </br>
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
