@@ -46,7 +46,7 @@ Y alguna más...
 [![Instagram](https://img.shields.io/badge/Instagram-@franco.cirielli-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/franco.cirielli/)
 <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FrancoCirielli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/franco-cirielli-74ab67196)
-[![Web](https://img.shields.io/badge/Web-FrancoCirielli.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://francocirielli.me)
+[![Web](https://img.shields.io/badge/Web-FrancoCirielli.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.francocirielli.engineer/en)
 
 
 <h3>Primer año 🥇</h3> 
