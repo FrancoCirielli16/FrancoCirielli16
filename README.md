@@ -93,7 +93,7 @@ Y alguna más...
       <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoCirielli16&repo=Programacion_Concurrente&theme=merko&description=true" />
     </a>
    <a href="https://github.com/FrancoCirielli16/Orientacion-a-objetos-2">
-      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoCirielli16&repo=Orientacion-a-objetos-2&theme=merko&description=true" />
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoCirielli16&repo=Orientacion-a-objetos-2&theme=merko&description=false" />
    </a>
    <a href="https://github.com/FrancoCirielli16/CPLP">
       <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoCirielli16&repo=CPLP&theme=merko&description=false" />
@@ -105,7 +105,7 @@ Y alguna más...
 
 <div>
     <a href="https://github.com/FrancoCirielli16/BD1">
-      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoCirielli16&repo=BD1&theme=merko&description=true" />
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoCirielli16&repo=BD1&theme=merko&description=false" />
     </a>
 </div> 
 
